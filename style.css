@@ -1,12 +1,12 @@
 h1 {
-    color: rgb(255, 102, 0);
+    color: orangered;
     font-size: 48px;
     text-align: start;
     font-family: 'Times New Roman', Times, Gill Sans, Gill Sans MT, serif;
 }
 
 li {
-    color: rgb(255, 102, 0);
+    color: orange;
     font-size: 40px;
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
