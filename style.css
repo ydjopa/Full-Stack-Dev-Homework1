@@ -1,8 +1,8 @@
 h1 {
-    color: Green;
+    color: greenyellow;
     font-size: 48px;
     text-align: start;
-    font-family: 'Times New Roman', Times, 'Gill Sans', 'Gill Sans MT', serif;
+    font-family: 'Times New Roman', Times, Gill Sans, Gill Sans MT, serif;
 }
 
 li {
